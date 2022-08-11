@@ -2,5 +2,4 @@ Nama                 : Wilsen ALexander
 Alamat               : Jl Peta gg Sindang Asih IX
 Tempat Tanggal Lahir : Bandung, 06-01-2003
 Jenis Kelamin        : Laki-Laki
-Hobi                 : Berenang
-Cita-Cita            : Programing
+Hobi                 : Berenang,Main Game
